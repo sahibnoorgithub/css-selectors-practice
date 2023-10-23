@@ -1,0 +1,20 @@
+div h1{
+    color:  gold;
+    border-bottom: 4px solid red;
+    width: 30%;
+
+}
+div h2{
+    color:  orange;
+    border-bottom:  1px solid red;
+    width: 20%;
+}
+div p{
+    color: brown;
+    letter-spacing: 3px;
+    
+}
+div li{
+    color: red;
+    font-style: italic;
+}

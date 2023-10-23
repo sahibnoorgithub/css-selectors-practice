@@ -1,0 +1,43 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#heading-1{
+    text-transform: uppercase;
+    color: red;
+}
+#heading-2{
+    text-transform: uppercase;
+    color: rgb(9, 135, 185);
+}
+#heading-3{
+    text-transform: uppercase;
+    color: blue;
+}
+#container-1{
+    padding: 10px;
+    border: 2px solid grey;
+    margin: 15px;
+    background-color: azure;
+}
+#container-2{
+    padding: 10px;
+    border: 2px solid grey;
+    margin: 15px;
+    background-color: azure;
+}
+#container-3{
+    padding: 10px;
+    border: 2px solid grey;
+    margin: 15px;
+    background-color: azure;
+}
+#main-container{
+    background-color: rgb(238, 166, 204);
+    padding: 10px;
+}
+
+.paragraph{
+    color: rgb(225, 57, 57);
+    letter-spacing: 2px;
+    word-spacing: 2px;
+}

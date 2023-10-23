@@ -1,0 +1,13 @@
+header>div{
+    border: 2px solid red;
+}
+header>div>h1{
+    color: orange;
+    background-color: #ddd;
+}
+header>ul{
+    background-color: grey;
+}
+header>ul>li{
+    color: red;
+}

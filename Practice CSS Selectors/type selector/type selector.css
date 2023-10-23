@@ -1,0 +1,28 @@
+
+div{
+    background-color: #ddd;
+    box-shadow: 2px 0px 5px 0px rgba(0, 0, 0, 0.605);
+    padding: 10px;
+}
+h1{
+    color: orange;
+}
+h2{
+    color: rgba(0, 0, 0, 0.297);
+}
+h1,h2{
+    border: 1px  black;
+    width: 25%;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: rgb(255, 255, 255);
+}
+p{
+    color: red;
+    letter-spacing: 2px;
+    border-bottom: 3px solid red;
+    padding-bottom: 5px;
+}
+li,span{
+    color: rgb(47, 172, 221);
+}

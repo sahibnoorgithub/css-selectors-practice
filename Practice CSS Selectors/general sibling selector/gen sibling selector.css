@@ -1,0 +1,16 @@
+
+
+
+
+h1~p{
+    color: brown;
+    word-spacing: 3px;
+    letter-spacing: 2px;
+}
+span~h1{
+    color: darkmagenta;
+    font-style: italic;
+}
+span{
+    color:red;
+}
